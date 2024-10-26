@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1>Hi there, I'm  Dmitry </h1>
+    <h1><i>Hi there, I'm  Dmitry</i></h1>
     <h3>Mega Full Stack Developer from Manchester</h3>
 </div>
 
@@ -9,14 +9,14 @@
   </a>
 </div>
 
-### About me
+### *About me*
 - 🌱 I’m currently learning **Fifa 2025**
-- 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
+- 📫 Reach me by [email](mailto:deleath11@gmail.com)
 - 🌍 I сильно speak English
 
 ---
 
-### Languages and tools
+### *Technologies and tools*
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
@@ -24,13 +24,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="angular" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="40" height="40"/>&nbsp;
 
 
-### My stat
+### *My stat*
 
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deleath&theme=github_dark" alt=""/>
